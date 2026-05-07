@@ -11,10 +11,13 @@ public class MiniTwitterApplication {
     public static final String VERSION_NAME = "1.0.0";
 
     public static void main(String[] args) {
-        System.out.println("╔══════════════════════════════╗");
-        System.out.println("║       Mini Twitter           ║");
-        System.out.println("║       Version " + VERSION_NAME + "          ║");
-        System.out.println("╚══════════════════════════════╝");
+//        System.out.println("╔══════════════════════════════╗");
+//        System.out.println("║       Mini Twitter           ║");
+//        System.out.println("║       Version " + VERSION_NAME + "          ║");
+//        System.out.println("╚══════════════════════════════╝");
+
+        System.out.println("       Mini Twitter           ");
+       System.out.println("       Version " + VERSION_NAME + "          ║");
         showLandingMenu();
     }
 
